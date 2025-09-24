@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "a30827b8-1d55-15f4-84d5-fc1442cb32fa",
+  "instructors": {
+    "content": [
+      "77de971e-e669-8e7c-3850-0942e9036282"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a9c3d331-5991-64a0-db23-7e1a7a0a382c",
+    "website": "14-127-behavioral-economics-and-finance-spring-2004"
+  },
+  "course_title": "Behavioral Economics and Finance",
+  "course_description": "This course surveys research which incorporates psychological evidence into economics. Topics include: prospect theory, biases in probabilistic judgment, self-control and mental accounting with implications for consumption and savings, fairness, altruism, and public goods contributions, financial market anomalies and theories, impact of markets, learning, and incentives, and memory, attention, categorization, and the thinking process.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.127",
+  "course_image_thumbnail": {
+    "content": "77e9c9bb-ead3-8227-0476-0b3895e378fc",
+    "website": "14-127-behavioral-economics-and-finance-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "4f9574d3-cc0f-4090-a7bc-8d9fba4c02e1",
+  "site_short_id": "14.127-spring-2004",
+  "site_url_path": "courses/14-127-behavioral-economics-and-finance-spring-2004",
+  "title": "Course Metadata"
+}
